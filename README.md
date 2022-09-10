@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Messoz an Automation Engineer (still a student), and in my free time I'm a PLC programmer (Rockwell environment) 
 - 👀 I’m interested in programming and coding 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C,C++ and python
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: marcomessora9@gmail.com
 
 <!---
