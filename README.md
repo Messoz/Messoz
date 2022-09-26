@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Messoz an Automation Engineer (still a student), and in my free time I'm a PLC programmer (Rockwell environment) 
+- 👋 Hi, I’m @Messoz an Industrial Automation Engineer and a software developer in my busy time 
 - 👀 I’m interested in programming and coding 
 - 🌱 I’m currently learning C,C++ and python
 - 💞️ I’m looking to collaborate on interesting projects
