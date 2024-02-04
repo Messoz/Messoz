@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Messoz an Industrial Automation Engineer and a software developer in my busy time 
-- 👀 I’m interested in programming and coding 
-- 🌱 I’m currently learning C,C++ and python
+- 👋 Hi, I’m @Messoz Software developer full time 
+- 👀 C#, Golang, Vue.js
+- 🌱 I like to experiment new things. 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: marcomessora9@gmail.com
 
