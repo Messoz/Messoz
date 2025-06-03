@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Messoz Software developer full time 
-- 👀 C#, Golang, Vue.js
+- 👋 Hi, I’m @Messoz Software developer full time and an Industrial Automation Engineer
+- 👀 C#, Golang, Vue.js, Robotics
 - 🌱 I like to experiment new things. 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: marcomessora9@gmail.com
